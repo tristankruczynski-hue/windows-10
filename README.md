@@ -1,4 +1,4 @@
-# windows-10/boot
+windows10/boot
 loginscreen
 movemouse
 openapps
